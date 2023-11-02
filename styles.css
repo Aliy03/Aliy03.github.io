@@ -41,6 +41,7 @@
 }
 
 .page-header__logo {
+    padding-left: 40px;
     margin-right: 237px;
     display: inline-block;
     width: 202px;
